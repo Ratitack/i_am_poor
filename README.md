@@ -2,15 +2,6 @@
 
 Project 2 in the  Flutter Development Bootcamp by App Brewery
 
-## Getting Started
+This application is a practice application to review the concepts taught in the [i_am_rich](https://github.com/Ratitack/i_am_rich) application using the same widget tree.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Link to the [AppBrewery Flutter Development Bootcamp](https://www.appbrewery.co/p/flutter-development-bootcamp-with-dart)
